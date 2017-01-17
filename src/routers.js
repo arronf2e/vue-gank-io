@@ -6,6 +6,7 @@ const routers = [{
     path: '/',
     name: 'index',
     component: App,
+    redirect: '/welfare',
     children: [{
         path: '/welfare',
         name: 'welfare',
