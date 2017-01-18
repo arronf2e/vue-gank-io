@@ -1,6 +1,21 @@
-# vue-meizi
+# vue-gank.io
 
-> A Vue.js practice project
+> vuejs  练手项目
+
+    vue-cli
+
+    vue-router
+    
+    vue-resource
+
+    vue-awesome-swiper
+
+    vue-lazy-load
+
+    vue-infinite-scroll
+
+    vuex
+      
 
 ## Build Setup
 
