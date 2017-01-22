@@ -16,6 +16,7 @@
 
     vuex
       
+> api 均来自 gank.io  
 
 ## Build Setup
 
