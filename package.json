@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A Vue.js practice project",
   "author": "njarron <hao.zhang@baoz.cn>",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arronf2e/vue-gank-io"
